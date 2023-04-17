@@ -1,0 +1,175 @@
+Point for you  to Explore :
+
+1> what is cloud Computing?
+2> what is AWS?
+3> what is S3?
+4> Benfits of S3
+5> Objects and Buckets in S3
+6> How does Amazon S3 works
+7> Features of S3
+8> Conclusion.
+
+1> what is cloud computing?
+Ans: Cloud computing is the distribution of computing services via the Internet
+(the cloud), including servers, storage, databases, networking,software,
+analytics, and intelligence, to provide faster innovation, more flexible resouces, and economies of scale.
+
+2> what is AWS?
+ 
+Ans: 
+a>  A cloud computing platform used to manage and maintain hardware and infrastructure of resources.
+example: public data storage, private Data Storage, Dynamic web hosting, Web App Hosting, Web App Hosting, Android App Hosting, VPN Gateway, Load Balancing, Auto Scaling
+
+b>  It reduces the expense and complexity of purchasing and running resources on-site for businesses and individuals.
+    Easy to use --> Secure--> storage --> Pay per use --> Databases --> Multi-Region Backups --> User Friendly Access --> Easy to use
+
+c> It is a comprehensive and simple-to-use computing platform offered by Amazon.
+
+d> Infrastructure as s service(Iaas), platform as s service(PaaS), and packaged software as a service(SaaS) are used to build it.
+
+On-Permises : Application--> data--> Runtime--> Middleware--> O/S--> Virtualization --> Servers --> Storage --> Networking  (You Manage)
+
+Infrastructure as as Services: Application --> data--> Runtime --> Middleware --> O/S (You manage)--> 
+Virtualization --> servers--> storage--> Networking
+
+Platform as a Service: Application--> Data(You manage)--> Runtime--> Middleware--> O/S --> Virtualization--> Servers--> Storage--> Networking 
+
+Software as a Services: Application--> data--> Runtime--> Middleware--> O/S--> Virtualization--> Servers--> Storage--> Networking (All manage by other)
+===================================================================
+3> What is S3?
+Ans: Amazon S3 is an object storage service from Amazon that provides industry-leading scalability, data availability,security, and performance.
+
+amazon web serices and s3:
+
+i. industry-leading scalability, ii. Data Availability, iii. Data Security, iv. Performance
+
+Q. what is S3?
+Answer: it has simple management capabilites that allow you to organize your data and fine-tune access controls to match your specific commercial, organizational, and compliance needs.
+
+          Storing and Organizing            to match
+Amazon S3 ---------------------> s3 Bucket---------------------> Oragnizations
+            data in S3 Bucket             oranization's needs
+
+Amazon S3 is desinged fro durability and saves data for millions of apps for businesses all over the world.
+
+Benefits of S3:
+
+i. Performance, scalability, availability, and durability that are unrivalled in the industry.
+ii. Many cost-effectuve storage classes are available.
+iii. Security, compliance, and auditing capabilites that are unrivalled.
+iv. Manage data and access permissions with ease.  
+v. Query-in-place and on-demand processing.
+vi. The most widely used cloud storage service.
+======================================================
+Objects and Buckets in S3-Objects.
+
+i. Objects are fundamental entrities stored in Amazon S3.
+ii. It consists of its data as well as its metadata.
+iii. S3 cannot access the content or data inside the object.
+iv. It can only read the metadata associated with object.
+v. It allocated a unique version ID for the object when some data is added to the buckets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
